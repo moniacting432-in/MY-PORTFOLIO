@@ -29,6 +29,7 @@ const projects = [
         description:"Image Description genertaion website using React,Tailwind and Gemini ",
         image:"/projects/picture3.png",
         tags:["React","TailwindCss","Multer","Gemini"],
+         demoUrl:"https://image-gemini.vercel.app/",
         GithubUrl:"https://github.com/moniacting432-in/IMAGE-GEMINI"
         
     },
