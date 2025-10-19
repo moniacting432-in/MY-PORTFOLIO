@@ -23,16 +23,15 @@ const projects = [
         GithubUrl:"https://github.com/moniacting432-in/ngo-with-gitbash"
         
     },
-     {
-        id:3,
-        title:"ImageInsight",
-        description:"Image Description genertaion website using React,Tailwind and Gemini ",
-        image:"/projects/picture3.png",
-        tags:["React","TailwindCss","Multer","Gemini"],
-         demoUrl:"https://image-gemini.vercel.app/",
-        GithubUrl:"https://github.com/moniacting432-in/IMAGE-GEMINI"
-        
-    },
+   {
+    id: 3,
+    title: "Task Manager App",
+    description: "A task management web application built using Next.js, Node.js, MongoDB, and Tailwind CSS for efficient task tracking and organization.",
+    image: "/projects/tasks.jpg",
+    tags: ["Next.js", "Node.js", "MongoDB", "TailwindCSS"],
+    demoUrl: "https://task-manager-app-o7mr.vercel.app/",
+    GithubUrl: "https://github.com/moniacting432-in/TASK-MANAGER-APP"
+},
      {
         id:4,
         title:"Quetalk",
