@@ -38,7 +38,7 @@ const projects = [
         description:"A chatbot using Gemini",
         image:"/projects/picture4.png",
         tags:["React","TialwindCss","Gemini"],
-        demoUrl:"https://chat-ai-azure-one.vercel.app/",
+        demoUrl:"https://chat-ai-theta-ebon.vercel.app/",
         GithubUrl:"https://github.com/moniacting432-in/CHAT-AI"
         
     },
