@@ -11,7 +11,6 @@ const projects = [
         GithubUrl:"https://github.com/moniacting432-in/JOB-PORTAL",
 
 
-        
     },
      {
         id:2,
